@@ -16,9 +16,9 @@ Date:   Mon Sep 9 21:28:32 2019 +0800
 
     upt02
 
-[33mcommit 8682573c1172f778a77c20420bb45894fded6d90[m
-Author: chuangjan <chuangjan@126.com>
-Date:   Mon Sep 9 21:26:00 2019 +0800
+
+
+
 
     upt01
 
